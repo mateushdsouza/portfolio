@@ -1,5 +1,12 @@
 # Portfólio — Mateus Henrique de Souza
 
+## Acessar no navegador
+
+**[Abrir o portfólio](https://mateushdsouza.github.io/portfolio/)**
+
+Não é necessário clonar o repositório, instalar ferramentas ou baixar arquivos para visualizar a versão publicada.
+
+
 Portfólio pessoal de um estudante de Engenharia de Software, com foco em oportunidades de estágio remunerado e desenvolvimento júnior.
 
 ## Projetos selecionados
@@ -10,7 +17,7 @@ Portfólio pessoal de um estudante de Engenharia de Software, com foco em oportu
 
 O site também apresenta formação, contato e estudos em andamento, incluindo o curso Fullstack com React e Node.js.
 
-## Executar localmente
+## Desenvolvimento local (opcional)
 
 Abra [index.html](index.html) no navegador ou sirva esta pasta com um servidor estático. Não há dependências para instalar ou etapa de build.
 
@@ -25,11 +32,9 @@ HTML, CSS e JavaScript sem framework, com tema claro/escuro, filtros, detalhes e
 
 Ao atualizar um projeto, mantenha o cartão em index.html e os detalhes em app.js coerentes.
 
-## GitHub Pages
+## Publicação
 
-Para publicar quando desejar: Settings → Pages → Deploy from a branch → main → /(root).
-Endereço esperado após ativação: https://mateushdsouza.github.io/portfolio/ .
-Enviar os arquivos ao GitHub não significa que o Pages já esteja ativo.
+GitHub Pages configurado para publicar a branch main, pasta raiz. Alterações enviadas a essa branch atualizam o site após a conclusão da publicação.
 
 ## Referência e licença
 
